@@ -1,0 +1,35 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "id": 1,
+      "name": "Announced",
+      "recordType": "movie",
+      "keepUpdated": false
+    },
+    {
+      "id": 2,
+      "name": "Pre-Production",
+      "recordType": "movie",
+      "keepUpdated": false
+    },
+    {
+      "id": 3,
+      "name": "Filming / Post-Production",
+      "recordType": "movie",
+      "keepUpdated": false
+    },
+    {
+      "id": 4,
+      "name": "Completed",
+      "recordType": "movie",
+      "keepUpdated": false
+    },
+    {
+      "id": 5,
+      "name": "Released",
+      "recordType": "movie",
+      "keepUpdated": false
+    }
+  ]
+}
